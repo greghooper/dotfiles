@@ -8,7 +8,7 @@ set laststatus=2 ruler number
 set backspace=indent,eol,start
 set autoindent
 set ignorecase smartcase
-set visualbell t_vb=
+set novisualbell t_vb=
 set shiftwidth=2 softtabstop=2 expandtab
 set display=lastline
 set hlsearch
